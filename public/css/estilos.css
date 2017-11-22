@@ -1,0 +1,9 @@
+.mdl-layout__header {
+	color: #787878;
+	background-color: #fff;
+	box-shadow: none;
+}
+
+.mdl-layout__header-row .mdl-navigation__link{
+	color: #787878;
+}
