@@ -6,4 +6,11 @@
 
 .mdl-layout__header-row .mdl-navigation__link{
 	color: #787878;
+	line-height: 34px;
+}
+
+a.is-active{
+	font-weight: 700;
+	border-bottom: solid 3px #017112;
+	color: #017112 !important;
 }
