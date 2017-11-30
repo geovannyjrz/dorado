@@ -10,8 +10,8 @@
     <a class="mdl-navigation__link" href="">Nosotros</a>
     <a class="mdl-navigation__link" href="">Ubicacion</a>
     <a class="mdl-navigation__link" href="">Blog</a>
-    <a class="mdl-navigation__link" href="Asistencia">Eventos</a>
+    <a class="mdl-navigation__link" href="">Eventos</a>
     <!--Enlaces administracion-->
-    <a class="mdl-navigation__link" href="">Admin</a>
+    <a class="mdl-navigation__link" href="Asistencia">Admin</a>
   </nav>
 </div>
