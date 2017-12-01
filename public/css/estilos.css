@@ -12,15 +12,19 @@ h1, h2, h3, h4, h5{
 	color: #787878;
 }
 
+table{
+	width: 100%;
+}
+
 #lista-asistencia td:first-child {
 	width: 10%;
 	text-align: center;
 }
 
-table td:nth-child(2) {
+#lista-asistencia td:nth-child(2) {
 	width: 70%;
 }
 
-table td:nth-child(3) {
+#lista-asistencia td:nth-child(3) {
 	width: 20%;
 }
