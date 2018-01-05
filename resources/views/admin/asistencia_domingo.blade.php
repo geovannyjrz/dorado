@@ -1,4 +1,4 @@
-@extends('layouts.master')
+@extends('layouts.masteradmin')
 
 @section('content')
 
@@ -37,7 +37,6 @@
 					</tr>
 				</thead>
 				<tbody>
-					
 					<tr ng-repeat="registro in asistencia">
 						<td>@{{ registro.Id }}</td>
 						<td class="mdl-data-table__cell--non-numeric">@{{ registro.Nombre }}</td>

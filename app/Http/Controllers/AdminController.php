@@ -6,9 +6,14 @@ use Illuminate\Http\Request;
 
 class AdminController extends Controller
 {
-    public function AsistenciaDomingo(){
 
-    	return view('admin.asistencia_domingo');
+	public function login(){
+		return view('admin.login');
+	}
 
-    }
+	public function AsistenciaDomingo(){
+
+		return view('admin.asistencia_domingo');
+
+	}
 }
